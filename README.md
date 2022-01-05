@@ -1,9 +1,4 @@
-#Arithmetic operations
-int a=2,b=3
-sum=a+b
-sub=a-b
-mul=a*b
-div=a/b
-print("sum of the arithmetic operation")
-return;
-
+#arithmetic operations
+int a=13
+b=24
+print("enter the sum of numbers")
